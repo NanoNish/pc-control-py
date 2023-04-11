@@ -1,0 +1,4 @@
+venv
+testenv
+__pycache__
+index.egg-info
